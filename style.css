@@ -28,7 +28,7 @@ body {
 .card-container {
     background-color: var(--white);
     border-radius: 1rem;
-    padding: 0.8rem;
+    padding: 0.8rem 0.8rem 2.2rem;
     max-width: 19rem;
     text-align: center;
 }
@@ -57,5 +57,4 @@ body {
 }
 .card-body .card-body-summary {
     color: var(--grayishBlue);
-    margin-bottom: 1rem;
 }
