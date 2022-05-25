@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 :root {
@@ -11,7 +12,7 @@
 }
 
 body {
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'Outfit', sans-serif;
     background: var(--lightGray);
     height: 100vh;
@@ -28,7 +29,7 @@ body {
     background-color: var(--white);
     border-radius: 1rem;
     padding: 0.8rem;
-    max-width: 18rem;
+    max-width: 19rem;
     text-align: center;
 }
 
